@@ -22,6 +22,7 @@ try{
     console.log('final');
 }
 }
+
 // certo const obj = {name:'samuel' }
 const obj = {nome:'samuel' }
 imprimirNomeGritado(obj)
